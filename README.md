@@ -1,6 +1,6 @@
 # Selamat Datang Di Profileku.
-Nama saya Pitryan
-Merupakan Mahasiswa Universitas Tarumanagara
+Nama saya Pitryan.
+Merupakan Mahasiswa Universitas Tarumanagara.
 
 ![Alt Text](https://media.giphy.com/media/yhXPFygSaOuzmnq8tF/giphy.gif)
 
